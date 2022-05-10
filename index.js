@@ -75,10 +75,3 @@ function renderLeads(leads){
 //localStorage.clear() - clears your local storage
 
 
-//falsy values
-//0
-//""
-//null -> how you as a developer signilize emptiness
-//undefined - how JavaScript signalizes emptiness
-//false
-//NaN
